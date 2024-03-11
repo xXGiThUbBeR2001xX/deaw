@@ -1,4 +1,4 @@
 | Compañero  | GIT |
 | ---- | ---- |
 | Yo | Este mismo  |
-| Curro | (Su git)[https://github.com/Fmmf98]  |
+| Curro | [Su git](https://github.com/Fmmf98)  |
